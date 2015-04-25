@@ -1,0 +1,13 @@
+# Site settings
+
+title: shiro.be
+email: hideki@shiro.be
+description: hogehoge
+url: "http://shiro.be" # the base hostname & protocol for your site
+
+# Build settings
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
